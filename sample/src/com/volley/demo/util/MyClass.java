@@ -16,8 +16,6 @@
 
 package com.volley.demo.util;
 
-import com.google.gson.annotations.SerializedName;
-
 
 public class MyClass {
     @SerializedName("object_or_array")

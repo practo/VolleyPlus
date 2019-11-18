@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center" />
 
-        <com.android.volley.ui.PhotoView
+        <com.android.volley.plus.ui.PhotoView
             android:id="@+id/imageView"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"

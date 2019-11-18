@@ -44,10 +44,10 @@ import org.apache.http.message.BasicStatusLine;
 import org.apache.http.params.HttpConnectionParams;
 import org.apache.http.params.HttpParams;
 
-import com.android.volley.Request;
-import com.android.volley.Request.Method;
-import com.android.volley.error.AuthFailureError;
-import com.android.volley.toolbox.HttpStack;
+import com.android.volley.plus.Request;
+import com.android.volley.plus.Request.Method;
+import com.android.volley.plus.error.AuthFailureError;
+import com.android.volley.plus.toolbox.HttpStack;
 
 public class ExtHttpClientStack implements HttpStack {
 	protected final HttpClient mClient;

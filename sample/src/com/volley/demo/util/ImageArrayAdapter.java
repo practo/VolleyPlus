@@ -26,9 +26,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.android.volley.cache.SimpleImageLoader;
-import com.android.volley.toolbox.ImageLoader;
-import com.android.volley.ui.NetworkImageView;
+import com.android.volley.plus.cache.SimpleImageLoader;
+import com.android.volley.plus.ui.NetworkImageView;
 import com.volley.demo.R;
 
 public class ImageArrayAdapter extends ArrayAdapter<ImageEntry> {

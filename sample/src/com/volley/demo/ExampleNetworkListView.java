@@ -29,11 +29,11 @@ import android.widget.AbsListView;
 import android.widget.AbsListView.OnScrollListener;
 import android.widget.ListView;
 
-import com.android.volley.Request.Method;
-import com.android.volley.RequestQueue;
-import com.android.volley.Response;
-import com.android.volley.error.VolleyError;
-import com.android.volley.request.JsonObjectRequest;
+import com.android.volley.plus.Request.Method;
+import com.android.volley.plus.RequestQueue;
+import com.android.volley.plus.Response;
+import com.android.volley.plus.error.VolleyError;
+import com.android.volley.plus.request.JsonObjectRequest;
 import com.volley.demo.util.ImageArrayAdapter;
 import com.volley.demo.util.ImageEntry;
 import com.volley.demo.util.MyVolley;

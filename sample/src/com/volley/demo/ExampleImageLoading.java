@@ -23,7 +23,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import com.android.volley.toolbox.ImageLoader;
+import com.android.volley.plus.toolbox.ImageLoader;
 import com.volley.demo.util.MyVolley;
 
 /**

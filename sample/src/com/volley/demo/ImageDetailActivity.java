@@ -34,8 +34,8 @@ import android.view.View.OnClickListener;
 import android.view.WindowManager.LayoutParams;
 import android.widget.Toast;
 
-import com.android.volley.cache.DiskLruBasedCache.ImageCacheParams;
-import com.android.volley.cache.SimpleImageLoader;
+import com.android.volley.plus.cache.DiskLruBasedCache.ImageCacheParams;
+import com.android.volley.plus.cache.SimpleImageLoader;
 import com.volley.demo.util.Images;
 import com.volley.demo.util.Utils;
 

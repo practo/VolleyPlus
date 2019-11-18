@@ -17,10 +17,10 @@ package com.volley.demo.util;
 
 import android.content.Context;
 
-import com.android.volley.RequestQueue;
-import com.android.volley.cache.BitmapImageCache;
-import com.android.volley.cache.SimpleImageLoader;
-import com.android.volley.toolbox.Volley;
+import com.android.volley.plus.RequestQueue;
+import com.android.volley.plus.cache.BitmapImageCache;
+import com.android.volley.plus.cache.SimpleImageLoader;
+import com.android.volley.plus.toolbox.Volley;
 
 
 /**

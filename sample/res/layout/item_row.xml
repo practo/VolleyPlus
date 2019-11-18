@@ -5,7 +5,7 @@
     android:gravity="left|center_vertical"
     android:orientation="horizontal" >
 
-    <com.android.volley.ui.NetworkImageView
+    <com.android.volley.plus.ui.NetworkImageView
         android:id="@+id/iv_thumb"
         android:layout_width="80dp"
         android:layout_height="80dp" />
