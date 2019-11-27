@@ -23,8 +23,8 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 
-import com.android.volley.cache.SimpleImageLoader;
-import com.android.volley.ui.PhotoView;
+import com.android.volley.plus.cache.SimpleImageLoader;
+import com.android.volley.plus.ui.PhotoView;
 import com.volley.demo.util.Utils;
 
 /**

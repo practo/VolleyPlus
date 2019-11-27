@@ -41,9 +41,9 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.android.volley.cache.DiskLruBasedCache.ImageCacheParams;
-import com.android.volley.cache.SimpleImageLoader;
-import com.android.volley.ui.NetworkImageView;
+import com.android.volley.plus.cache.DiskLruBasedCache.ImageCacheParams;
+import com.android.volley.plus.cache.SimpleImageLoader;
+import com.android.volley.plus.ui.NetworkImageView;
 import com.volley.demo.util.Images;
 import com.volley.demo.util.Utils;
 
